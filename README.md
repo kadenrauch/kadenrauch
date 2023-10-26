@@ -3,6 +3,10 @@
 </h1>
 
 <h2>Languages</h2>
+* Java
+* C
+* Python
+* JavaScript
 
 - 📫 Email: kadenmrauch@gmail.com
 - 📞 Phone #: 703-409-5440
