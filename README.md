@@ -12,7 +12,7 @@
 - JavaScript
 
 <h3>Extracurriculars</h3>
-- <a href="https://www.instagram.com/jmu_cdc/">JMU Cyber Defense Club</a> 
+- <br/><a href="https://www.instagram.com/jmu_cdc/">JMU Cyber Defense Club</a> 
 <br/>
 
 - 📫 Email: kadenmrauch@gmail.com
