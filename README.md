@@ -13,7 +13,7 @@
 <br/>
 
 <h3>Extracurriculars</h3>
-- <a href="[https://www.jmu.edu/academics/undergraduate/majors/computer-science.shtml](https://www.instagram.com/jmu_cdc/)">JMU Cyber Defense Club</a> 
+- <a href="https://www.instagram.com/jmu_cdc/">JMU Cyber Defense Club</a> 
 <br/>
 
 - 📫 Email: kadenmrauch@gmail.com
