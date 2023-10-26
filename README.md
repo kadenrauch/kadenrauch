@@ -4,9 +4,13 @@
 
 <h2>Languages</h2>
 * Java
+<br/>
 * C
+<br/>
 * Python
+<br/>
 * JavaScript
+<br/>
 
 - 📫 Email: kadenmrauch@gmail.com
 - 📞 Phone #: 703-409-5440
