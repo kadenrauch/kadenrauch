@@ -21,4 +21,3 @@ I am interested in full stack software development, security systems, and machin
 <h2>👤Contact Me:</h2>
 - 📫 Email: kadenmrauch@gmail.com
 <br/>
-- 📞 Phone #: 703-409-5440
