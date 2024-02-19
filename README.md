@@ -11,6 +11,10 @@ I am interested in full stack software development, security systems, and machin
 <br/>
 - Python
 <br/>
+- Html
+<br/>
+- CSS
+<br/>
 - JavaScript
 
 <h2>🤹Extracurriculars:</h2>
