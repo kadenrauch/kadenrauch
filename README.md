@@ -23,6 +23,3 @@ I am interested in full stack software development, security systems, and machin
 - <a href="https://www.pgnleaders.org/">Phi Gamma Nu Professional Development Organization</a> 
 <br/>
 
-<h2>👤Contact Me:</h2>
-- 📫 Email: kadenmrauch@gmail.com
-<br/>
